@@ -12,11 +12,12 @@ Blehm, C., Vishnu, S., Khattak, A., Mitra, S., and Yee, R. W. (2005). Computer V
 
 ### Dependencies
 1. OpenCV2
-2. dlib
-3. imutils
-4. numpy
-5. scipy
-6. win10toast
+2. cmake
+3. dlib
+4. imutils
+5. numpy
+6. scipy
+7. win10toast
  
 ### Additional Info
 - To close the app, press `Esc`
