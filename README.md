@@ -26,7 +26,7 @@ Detected eyes will be marked by green dots.
 ![Marked Eyes](https://github.com/mufathurrohman/eye-strain/blob/master/eye-landmarks.PNG)
 
 #### The Notification
-The notification should disappear after 5 secondsa.
+The notification should disappear after 5 seconds.
 ![Toast](https://github.com/mufathurrohman/eye-strain/blob/master/toast.PNG)
 
 #### Blink Summary
