@@ -26,7 +26,7 @@ Detected eyes will be marked by green dots.
 ![Marked Eyes](https://github.com/mufathurrohman/eye-strain/blob/master/eye-landmarks.PNG)
 
 #### The Notification
-The notification should disappear after 5 seconds.
+The notification should disappear after 5 secondsa.
 ![Notification](https://github.com/mufathurrohman/eye-strain/blob/master/Notification.PNG)
 #### Blink Summary
 Will be available as `Blink Summary.txt` after the user closes the app.
