@@ -25,9 +25,6 @@ Blehm, C., Vishnu, S., Khattak, A., Mitra, S., and Yee, R. W. (2005). Computer V
 Detected eyes will be marked by green dots.
 ![Marked Eyes](https://github.com/mufathurrohman/eye-strain/blob/master/eye-landmarks.PNG)
 
-#### The Notification
-The notification should disappear after 5 secondsa.
-![Notification](https://github.com/mufathurrohman/eye-strain/blob/master/Notification.PNG)
 #### Blink Summary
 Will be available as `Blink Summary.txt` after the user closes the app.
 ![Notification](https://github.com/mufathurrohman/eye-strain/blob/master/blink%20summary.PNG)
