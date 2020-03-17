@@ -1,7 +1,7 @@
 # Avoiding Computer Vision Syndrome
-This app will remind you to take a break for every 20 minutes using [Facial Landmarks](https://towardsdatascience.com/facial-mapping-landmarks-with-dlib-python-160abcf7d672) and [Eye Aspect Ratio Calculation](https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/). The 20 minutes interval is taken from [20-20-20](https://www.medicalnewstoday.com/articles/321536) rule (20 minutes spent @screen -> look at something 20 feet away for 20 seconds). Normally, a person will blink between 10-15 times per minutes with blink rate when looking at a screen will be less than normal (Blehm et al., 2005).  
+This app will remind you to take a break for every 20 minutes using [Facial Landmarks](https://towardsdatascience.com/facial-mapping-landmarks-with-dlib-python-160abcf7d672) and [Eye Aspect Ratio Calculation](https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/). The 20 minutes interval is taken from [20-20-20](https://www.medicalnewstoday.com/articles/321536) rule (20 minutes spent @screen -> look at something 20 feet away for 20 seconds). Normally, a person will blink between 10-15 times per minutes (Blehm et al., 2005).  
 
-Blehm, C., Vishnu, S., Khattak, A., Mitra, S., and Yee, R. W. 2005. Computer Vision Syndrome: A Review. Survey of Opthalmology, 50, 253–262.
+Blehm, C., Vishnu, S., Khattak, A., Mitra, S., and Yee, R. W. (2005). Computer Vision Syndrome: A Review. Survey of Opthalmology, 50, 253–262.
 
 
 ### Requirements
